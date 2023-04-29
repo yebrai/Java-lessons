@@ -1,3 +1,5 @@
+import java.util.*;
+
 public class Cadenas {
     public static void main (String[] args) {
 
@@ -12,6 +14,11 @@ public class Cadenas {
         System.out.println(cadenaString.substring(5, 16));
 
         System.out.println(miNombre.equals(cadenaString));
+
+        Scanner miNombre1;
+
+        Locale miNombre2 ;
+
 
 
     }
