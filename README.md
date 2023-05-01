@@ -1,4 +1,4 @@
-Learning JAVA. here I will upload my notes, practices and concepts.
+Conociendo JAVA... Apuntes basico en readme.
 
 ## Tipos de datos en Java / Primitivos
 
